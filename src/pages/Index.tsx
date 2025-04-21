@@ -3,7 +3,7 @@ import React from "react";
 import { Link } from "react-router-dom";
 import { Button } from "@/components/ui/button";
 import { Card, CardContent } from "@/components/ui/card";
-import { Chef, ChefHat, Clock, Heart, Package, PhoneCall, Users } from "lucide-react";
+import { ChefHat, Clock, Heart, Package, PhoneCall, Users } from "lucide-react";
 import Header from "@/components/Header";
 
 const Index = () => {
@@ -222,3 +222,4 @@ const Index = () => {
 };
 
 export default Index;
+
